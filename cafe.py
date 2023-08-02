@@ -1,3 +1,6 @@
+#CONQUERED BY BERA KURT
+#this was an exam prepared by meta
+
 menu = {
     1: {"name": 'espresso',
         "price": 1.99},
