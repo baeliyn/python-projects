@@ -1,3 +1,4 @@
+#i dont like the yellow error
 import spellcheck
 
 alpha = "Checking the length & structure of the sentence."
